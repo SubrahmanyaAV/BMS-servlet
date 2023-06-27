@@ -1,7 +1,8 @@
 # Web Based Book/Library Management System using Servlet and JSP
  
  BMS acts as a digital library and provides user the following functionalities
-* Add a Book • Search a Book based on Book Title 
+* Add a Book
+* Search a Book based on Book Title 
 * Search Books based on Category 
 * Search Books based on Author 
 * List All Books along with author information 
